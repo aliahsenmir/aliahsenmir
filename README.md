@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 **Now Playing** on Spotify
 
-<a href="https://status.aliahsenmir.dev/now-playing?open">
-    <img src="https://status.aliahsenmir.dev/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://https://now-playing-profile.aliahsenmir.vercel.app//now-playing?open">
+    <img src="https://https://now-playing-profile.aliahsenmir.vercel.app//now-playing" width="256" height="64" alt="Now Playing">`
 </a>
