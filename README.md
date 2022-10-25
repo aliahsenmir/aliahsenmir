@@ -4,7 +4,7 @@
 
 <h3 align="left">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working as a **Software Developer II** @ **S&P Global** on [ESG in MI](https://www.spglobal.com/marketintelligence/en/campaigns/esg-analysis)
+- 🔭 I’m currently working as a **Principal Software Engineer** @ **Northbay Solutions** on [Intelligize](https://www.intelligize.com)
 
 - 🌱 I’m currently learning **ReactJS, Python and AWS**
 
