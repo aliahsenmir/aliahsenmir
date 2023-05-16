@@ -2,9 +2,9 @@
 
 
 
-<h3 align="left">A passionate full stack developer from Pakistan</h3>
+<h3 align="left">A passionate full stack developer currently working on ML with AWS</h3>
 
-- 🔭 I’m currently working as a **Principal Software Engineer** @ **Northbay Solutions** on [Intelligize](https://www.intelligize.com)
+- 🔭 I’m currently working as a **Principal Software Engineer** @ **Northbay Solutions** on [AWS ProServ](https://aws.amazon.com/professional-services/)
 
 - 🌱 I’m currently learning **ReactJS, Python and AWS**
 
