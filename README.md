@@ -1,9 +1,11 @@
-👋 Hi there! I'm Ali Ahsen Mir, an experienced Software Developer with over 8 years of expertise in building resilient systems across decentralized environments. My journey in software development has given me a deep understanding of various programming languages and tech stacks, including C#, Python, Java, Kotlin, and Node.js.
+👋 Hi there! I'm Ali Ahsen Mir, a Senior Software Developer with over 10 years of experience building resilient, scalable systems across cloud, data, and distributed environments. I work across backend engineering, full-stack development, machine learning, and developer productivity, with a focus on turning complex requirements into dependable products.
 
 ## About Me
 
-- 🌐 I'm currently a Senior Backend Developer (part-time) at **AR.VO Computer**, focusing on customizable and monetizable XR platforms using Kotlin and Java.
-- 🔭 Recently, I was working as a Full Stack Developer at **Etufillari**, where I architected and implemented scalable backend/frontend systems using Next.js and Azure Functions. 
+- 🌐 I'm currently a **Senior Software Developer** at **Kalmar**, working in an industrial technology environment where software, automation, and digital logistics meet.
+- 🧩 My current focus is building maintainable software for complex, distributed systems, collaborating across teams, and improving reliability throughout the development lifecycle.
+- 🤖 I'm actively exploring **agentic AI** and AI-assisted developer workflows, with an emphasis on practical automation, sound engineering judgment, and production-quality results.
+- 🔭 Previously, I worked as a Full Stack Developer at **Etufillari**, where I architected and implemented scalable backend/frontend systems using Next.js and Azure Functions.
 - 💼 Previously, I worked as a Principal Software Engineer at **Northbay Solutions**, contributing to Falcon 40B LLM and AWS ProServ projects, utilizing machine learning technologies such as SageMaker, DynamoDB, and Lambda.
 - 📊 At **S&P Global**, I integrated ESG data into the Market Intelligence Platform and developed a Portfolio Analytics tool used by millions of customers.
 - 🌍 My international experience includes a part-time role at **Timesolv Corporation**, where I improved their Legal Time Tracking Solution.
@@ -12,16 +14,25 @@
 
 ## Skills and Technologies
 
-### Languages & Frameworks
+### Software Engineering
 - **Backend:** C#, Python, Java, Kotlin, Node.js, Go, .NET, Java Spring Boot
-- **Frontend:** AngularJS, Polymer.js, React, Next.js, HTML, CSS, SASS, Bootstrap, TypeScript
-- **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB, Elasticsearch, Hadoop
-- **Cloud & Infrastructure:** AWS (SageMaker, Rekognition, Textract, Lambda, DynamoDB, etc.), Azure, Docker, Kubernetes, Terraform
-- **CI/CD:** Jenkins, Bitbucket, GitLab, GitHub Actions
+- **Architecture:** Distributed systems, RESTful APIs, microservices, event-driven systems, system integration, and performance optimization
+- **Frontend:** React, Next.js, AngularJS, Polymer.js, TypeScript, HTML, CSS, SASS, and Bootstrap
+- **Quality:** Test-driven development, unit and integration testing, code review, observability, and maintainable system design
+
+### AI, Data & Search
+- **Machine Learning:** LLM applications, embeddings, semantic search, retrieval-augmented generation (RAG), and ML-powered automation
+- **Tools:** Amazon SageMaker, Pinecone, pgvector, DynamoDB, Elasticsearch, Hadoop, and PostgreSQL
+- **Current interests:** Agentic AI, AI-assisted software development, developer workflow automation, and responsible adoption of AI in production systems
+
+### Cloud, Infrastructure & Delivery
+- **Cloud:** AWS (SageMaker, Rekognition, Textract, Lambda, DynamoDB, and related services) and Azure
+- **Infrastructure:** Docker, Kubernetes, Terraform, Azure Functions, and cloud-native application design
+- **CI/CD:** Jenkins, Bitbucket, GitLab, GitHub Actions, and automated delivery practices
 
 ### Tools & Platforms
-- **Version Control:** Git, TFS, SVN, SourceTree
-- **Testing:** NUnit, JUnit, Mocha, pytest, Selenium
+- **Version Control:** Git, GitHub, GitLab, Bitbucket, TFS, SVN, and SourceTree
+- **Testing:** NUnit, JUnit, Mocha, pytest, and Selenium
 - **Reporting:** Power BI, Tableau, Telerik Reporting Studio, Crystal Reports
 
 ## Notable Achievements
@@ -50,8 +61,9 @@
 
 ## What I'm Learning
 
-- Currently exploring **Web3** and **Blockchain** technologies.
-- Experimenting with **Rust** for system-level programming.
+- Deepening my understanding of **agentic AI**, LLM-powered developer tools, and reliable AI-assisted workflows.
+- Exploring **Rust** for system-level programming and performance-oriented software.
+- Continuing to learn about **Web3**, **Blockchain**, and distributed application architectures.
 
 ## Connect with Me
 
